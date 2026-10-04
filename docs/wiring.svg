@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 720" width="1040" height="720" font-family="Arial, Helvetica, sans-serif">
+<rect width="1040" height="720" fill="#ffffff"/>
+<text x="24" y="36" font-size="20" text-anchor="start" font-weight="bold" fill="#222222">Wiring</text>
+<rect x="270" y="60" width="750" height="550" rx="14" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="10 6"/>
+<text x="284" y="84" font-size="13" text-anchor="start" font-weight="normal" fill="#888888">Enclosure</text>
+<rect x="24" y="110" width="150" height="90" rx="8" fill="#f7f7f7" stroke="#222222" stroke-width="1.5"/>
+<text x="80" y="148" font-size="15" text-anchor="middle" font-weight="bold" fill="#222222">Power supply</text>
+<text x="80" y="170" font-size="13" text-anchor="middle" font-weight="normal" fill="#222222">5 V / 3 A</text>
+<text x="166" y="139" font-size="12" text-anchor="end" font-weight="normal" fill="#d62828">+5V</text>
+<text x="166" y="179" font-size="12" text-anchor="end" font-weight="normal" fill="#222222">GND</text>
+<text x="222" y="106" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">long</text>
+<text x="222" y="122" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">cable</text>
+<path d="M174,135 H740" fill="none" stroke="#d62828" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M174,175 H362 A8,8 0 0 1 378,175 H740" fill="none" stroke="#222222" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M370,135 V300 H430" fill="none" stroke="#d62828" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M330,175 V340 H430" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="370" cy="135" r="5" fill="#d62828"/>
+<circle cx="330" cy="175" r="5" fill="#222222"/>
+<rect x="430" y="260" width="220" height="320" rx="8" fill="#e8f1f8" stroke="#222222" stroke-width="1.5"/>
+<text x="540" y="288" font-size="16" text-anchor="middle" font-weight="bold" fill="#222222">Arduino Uno</text>
+<text x="540" y="308" font-size="12" text-anchor="middle" font-weight="normal" fill="#222222">+ CQRobot DMX shield</text>
+<text x="440" y="304" font-size="12" text-anchor="start" font-weight="normal" fill="#d62828">5V</text>
+<text x="440" y="344" font-size="12" text-anchor="start" font-weight="normal" fill="#222222">GND</text>
+<text x="642" y="304" font-size="12" text-anchor="end" font-weight="normal" fill="#1d6fb8">D12</text>
+<text x="642" y="344" font-size="12" text-anchor="end" font-weight="normal" fill="#1d6fb8">D6</text>
+<text x="642" y="369" font-size="12" text-anchor="end" font-weight="normal" fill="#1d6fb8">D7</text>
+<text x="642" y="394" font-size="12" text-anchor="end" font-weight="normal" fill="#d62828">5V</text>
+<text x="642" y="419" font-size="12" text-anchor="end" font-weight="normal" fill="#222222">GND</text>
+<text x="642" y="504" font-size="12" text-anchor="end" font-weight="normal" fill="#1d6fb8">A0</text>
+<text x="642" y="549" font-size="12" text-anchor="end" font-weight="normal" fill="#222222">GND</text>
+<text x="540" y="452" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">D0/D1: DMX (serial)</text>
+<text x="540" y="470" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">D2: DMX transmit direction</text>
+<text x="540" y="572" font-size="12" text-anchor="middle" font-weight="normal" fill="#222222">DMX output (XLR)</text>
+<circle cx="890" cy="175" r="90" fill="none" stroke="#cccccc" stroke-width="14"/>
+<circle cx="890.0" cy="85.0" r="3.2" fill="#f4a300"/>
+<circle cx="899.4" cy="85.5" r="3.2" fill="#f4a300"/>
+<circle cx="908.7" cy="87.0" r="3.2" fill="#f4a300"/>
+<circle cx="917.8" cy="89.4" r="3.2" fill="#f4a300"/>
+<circle cx="926.6" cy="92.8" r="3.2" fill="#f4a300"/>
+<circle cx="935.0" cy="97.1" r="3.2" fill="#f4a300"/>
+<circle cx="942.9" cy="102.2" r="3.2" fill="#f4a300"/>
+<circle cx="950.2" cy="108.1" r="3.2" fill="#f4a300"/>
+<circle cx="956.9" cy="114.8" r="3.2" fill="#f4a300"/>
+<circle cx="962.8" cy="122.1" r="3.2" fill="#f4a300"/>
+<circle cx="967.9" cy="130.0" r="3.2" fill="#f4a300"/>
+<circle cx="972.2" cy="138.4" r="3.2" fill="#f4a300"/>
+<circle cx="975.6" cy="147.2" r="3.2" fill="#f4a300"/>
+<circle cx="978.0" cy="156.3" r="3.2" fill="#f4a300"/>
+<circle cx="979.5" cy="165.6" r="3.2" fill="#f4a300"/>
+<circle cx="980.0" cy="175.0" r="3.2" fill="#f4a300"/>
+<circle cx="979.5" cy="184.4" r="3.2" fill="#f4a300"/>
+<circle cx="978.0" cy="193.7" r="3.2" fill="#f4a300"/>
+<circle cx="975.6" cy="202.8" r="3.2" fill="#f4a300"/>
+<circle cx="972.2" cy="211.6" r="3.2" fill="#f4a300"/>
+<circle cx="967.9" cy="220.0" r="3.2" fill="#f4a300"/>
+<circle cx="962.8" cy="227.9" r="3.2" fill="#f4a300"/>
+<circle cx="956.9" cy="235.2" r="3.2" fill="#f4a300"/>
+<circle cx="950.2" cy="241.9" r="3.2" fill="#f4a300"/>
+<circle cx="942.9" cy="247.8" r="3.2" fill="#f4a300"/>
+<circle cx="935.0" cy="252.9" r="3.2" fill="#f4a300"/>
+<circle cx="926.6" cy="257.2" r="3.2" fill="#f4a300"/>
+<circle cx="917.8" cy="260.6" r="3.2" fill="#f4a300"/>
+<circle cx="908.7" cy="263.0" r="3.2" fill="#f4a300"/>
+<circle cx="899.4" cy="264.5" r="3.2" fill="#f4a300"/>
+<circle cx="890.0" cy="265.0" r="3.2" fill="#f4a300"/>
+<circle cx="880.6" cy="264.5" r="3.2" fill="#f4a300"/>
+<circle cx="871.3" cy="263.0" r="3.2" fill="#f4a300"/>
+<circle cx="862.2" cy="260.6" r="3.2" fill="#f4a300"/>
+<circle cx="853.4" cy="257.2" r="3.2" fill="#f4a300"/>
+<circle cx="845.0" cy="252.9" r="3.2" fill="#f4a300"/>
+<circle cx="837.1" cy="247.8" r="3.2" fill="#f4a300"/>
+<circle cx="829.8" cy="241.9" r="3.2" fill="#f4a300"/>
+<circle cx="823.1" cy="235.2" r="3.2" fill="#f4a300"/>
+<circle cx="817.2" cy="227.9" r="3.2" fill="#f4a300"/>
+<circle cx="812.1" cy="220.0" r="3.2" fill="#f4a300"/>
+<circle cx="807.8" cy="211.6" r="3.2" fill="#f4a300"/>
+<circle cx="804.4" cy="202.8" r="3.2" fill="#f4a300"/>
+<circle cx="802.0" cy="193.7" r="3.2" fill="#f4a300"/>
+<circle cx="800.5" cy="184.4" r="3.2" fill="#f4a300"/>
+<circle cx="800.0" cy="175.0" r="3.2" fill="#f4a300"/>
+<circle cx="800.5" cy="165.6" r="3.2" fill="#f4a300"/>
+<circle cx="802.0" cy="156.3" r="3.2" fill="#f4a300"/>
+<circle cx="804.4" cy="147.2" r="3.2" fill="#f4a300"/>
+<circle cx="807.8" cy="138.4" r="3.2" fill="#f4a300"/>
+<circle cx="812.1" cy="130.0" r="3.2" fill="#f4a300"/>
+<circle cx="817.2" cy="122.1" r="3.2" fill="#f4a300"/>
+<circle cx="823.1" cy="114.8" r="3.2" fill="#f4a300"/>
+<circle cx="829.8" cy="108.1" r="3.2" fill="#f4a300"/>
+<circle cx="837.1" cy="102.2" r="3.2" fill="#f4a300"/>
+<circle cx="845.0" cy="97.1" r="3.2" fill="#f4a300"/>
+<circle cx="853.4" cy="92.8" r="3.2" fill="#f4a300"/>
+<circle cx="862.2" cy="89.4" r="3.2" fill="#f4a300"/>
+<circle cx="871.3" cy="87.0" r="3.2" fill="#f4a300"/>
+<circle cx="880.6" cy="85.5" r="3.2" fill="#f4a300"/>
+<text x="890" y="167" font-size="15" text-anchor="middle" font-weight="bold" fill="#222222">LED ring</text>
+<text x="890" y="187" font-size="12" text-anchor="middle" font-weight="normal" fill="#222222">60 × WS2812B</text>
+<text x="890" y="203" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">4 quarters of 15</text>
+<rect x="740" y="115" width="50" height="120" rx="8" fill="#f7f7f7" stroke="#222222" stroke-width="1.5"/>
+<text x="748" y="139" font-size="12" text-anchor="start" font-weight="normal" fill="#d62828">5V</text>
+<text x="748" y="179" font-size="12" text-anchor="start" font-weight="normal" fill="#222222">GND</text>
+<text x="748" y="219" font-size="12" text-anchor="start" font-weight="normal" fill="#1d6fb8">DIN</text>
+<path d="M650,300 H700 V215 H740" fill="none" stroke="#1d6fb8" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="760" y="310" width="240" height="120" rx="8" fill="#f7f7f7" stroke="#222222" stroke-width="1.5"/>
+<text x="880" y="332" font-size="14" text-anchor="middle" font-weight="bold" fill="#222222">Display TM1637</text>
+<text x="770" y="344" font-size="12" text-anchor="start" font-weight="normal" fill="#1d6fb8">CLK</text>
+<text x="770" y="369" font-size="12" text-anchor="start" font-weight="normal" fill="#1d6fb8">DIO</text>
+<text x="770" y="394" font-size="12" text-anchor="start" font-weight="normal" fill="#d62828">VCC</text>
+<text x="770" y="419" font-size="12" text-anchor="start" font-weight="normal" fill="#222222">GND</text>
+<rect x="830" y="345" width="160" height="72" rx="4" fill="#1b1b1b"/>
+<text x="910" y="395" font-size="36" text-anchor="middle" font-family="Consolas, Menlo, monospace" fill="#ff3b30">8888</text>
+<path d="M650,340 H760" fill="none" stroke="#1d6fb8" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M650,365 H760" fill="none" stroke="#1d6fb8" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M650,390 H760" fill="none" stroke="#d62828" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M650,415 H760" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="760" y="470" width="240" height="110" rx="8" fill="#f7f7f7" stroke="#222222" stroke-width="1.5"/>
+<text x="900" y="492" font-size="14" text-anchor="middle" font-weight="bold" fill="#222222">Mushroom button</text>
+<text x="900" y="510" font-size="12" text-anchor="middle" font-weight="normal" fill="#888888">normally open, non-latching</text>
+<path d="M860,548 A40,24 0 0 1 940,548 Z" fill="#d62828"/>
+<rect x="885" y="548" width="30" height="20" fill="#555555"/>
+<text x="770" y="504" font-size="12" text-anchor="start" font-weight="normal" fill="#222222">1</text>
+<text x="770" y="549" font-size="12" text-anchor="start" font-weight="normal" fill="#222222">2</text>
+<path d="M650,500 H760" fill="none" stroke="#1d6fb8" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M650,545 H760" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M540,580 V640" fill="none" stroke="#7b3fa0" stroke-width="3.5" stroke-linejoin="round"/>
+<rect x="420" y="640" width="240" height="64" rx="8" fill="#f3ecf8" stroke="#222222" stroke-width="1.5"/>
+<text x="540" y="666" font-size="14" text-anchor="middle" font-weight="bold" fill="#222222">Lighting (strobes)</text>
+<text x="540" y="686" font-size="12" text-anchor="middle" font-weight="normal" fill="#222222">DMX channels 1–8, set in code</text>
+<text x="24" y="272" font-size="14" text-anchor="start" font-weight="bold" fill="#222222">Legend</text>
+<path d="M24,296 H60" fill="none" stroke="#d62828" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="70" y="300" font-size="13" text-anchor="start" font-weight="normal" fill="#222222">+5 V</text>
+<path d="M24,320 H60" fill="none" stroke="#222222" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="70" y="324" font-size="13" text-anchor="start" font-weight="normal" fill="#222222">GND</text>
+<path d="M24,344 H60" fill="none" stroke="#1d6fb8" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="70" y="348" font-size="13" text-anchor="start" font-weight="normal" fill="#222222">Signal</text>
+<path d="M24,368 H60" fill="none" stroke="#7b3fa0" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="70" y="372" font-size="13" text-anchor="start" font-weight="normal" fill="#222222">DMX</text>
+<circle cx="42" cy="392" r="5" fill="#222222"/>
+<text x="70" y="396" font-size="13" text-anchor="start" font-weight="normal" fill="#222222">Junction</text>
+</svg>
