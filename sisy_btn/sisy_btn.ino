@@ -115,11 +115,11 @@ void refreshAllStuff() {
 void nextStateControll() {
 
   /*
-    0 - booting - 5000
-    1 - ready - unending
-    2 - countdown - 5 * 1000
-    3 - flash - 3 * 1000
-    4 - cooldown - 3 * 60 * 1000
+    0 - booting
+    1 - ready
+    2 - countdown
+    3 - flash
+    4 - cooldown
   */
 
   // set next state
@@ -144,7 +144,7 @@ void nextStateControll() {
       case 3: // from flash
         current_state = 4; // to cooldown
         state_since = millis();
-        state_for = 1UL * 60UL * 1000UL; // should 3 mins
+        state_for = 1UL * 60UL * 1000UL;
         break;
     }
   }
